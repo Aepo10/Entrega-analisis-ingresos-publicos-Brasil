@@ -15,11 +15,11 @@ El principal objetivo es analizar si existen años o áreas económicas en los q
 
 Este proyecto usa Python 3.9 🐍 y requiere las siguientes librerías/funciones:
 
-pandas 🐼
-numpy
-matplotlib
-seaborn 🌊
-pandas.api.types: función is_datetime64_any_dtype
+- pandas 🐼
+- numpy
+- matplotlib
+- seaborn 🌊
+
 Antes de ejecutar el código al completo se recomienda revisar las funciones del src para saber que escribir en los inputs de las funciones.
 
 **Autor**:
